@@ -1,0 +1,23 @@
+{
+  "name": "screemads_puppeter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilszymecki/ScreemAds_puppeter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emilszymecki/ScreemAds_puppeter/issues"
+  },
+  "homepage": "https://github.com/emilszymecki/ScreemAds_puppeter#readme",
+  "dependencies": {
+    "pending-xhr-puppeteer": "^1.0.17",
+    "puppeteer": "^1.12.2"
+  }
+}
